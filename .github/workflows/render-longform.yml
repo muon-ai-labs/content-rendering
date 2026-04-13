@@ -3,14 +3,14 @@ name: Render Longform
 on:
   workflow_dispatch:
     inputs:
-      theme:
-        description: "Theme to render"
+      template:
+        description: "Template to render"
         required: true
-        default: "paper"
+        default: "paper-depth"
         type: choice
         options:
-          - paper
-          - midnight
+          - paper-depth
+          - editorial-v5
 
 jobs:
   render:
@@ -36,10 +36,10 @@ jobs:
       - name: Render MP4
         run: |
           mkdir -p out
-          if [ "${{ github.event.inputs.theme }}" = "midnight" ]; then
-            npx remotion render src/index.ts LongForm5Min-Midnight out/longform-5min-midnight.mp4 --gl=angle
+          if [ "${{ github.event.inputs.template }}" = "editorial-v5" ]; then
+            npx remotion render src/index.ts ActualEditorialV55Min out/actual-editorial-v5-5min.mp4 --gl=angle
           else
-            npx remotion render src/index.ts LongForm5Min-Paper out/longform-5min-paper.mp4 --gl=angle
+            npx remotion render src/index.ts ActualPaperDepth5Min out/actual-paper-depth-5min.mp4 --gl=angle
           fi
 
       - name: Upload artifact
