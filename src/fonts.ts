@@ -1,43 +1,48 @@
-import {staticFile, delayRender, continueRender} from 'remotion';
+import {staticFile} from 'remotion';
 
 /**
- * DETERMINISTIC OFFLINE FONT LOADING
- * We avoid live Google Font dependencies to prevent render timeouts on networks with restricted access.
- * These woff2 files are stored in /public/fonts/
+ * DETERMINISTIC OFFLINE FONT REGISTRATION
+ * We keep all font assets local, but do not block rendering on explicit font loads.
+ * GitHub Actions can time out on FontFace.load(), so we register @font-face rules only.
  */
 
-const registerFontFace = (fontFamily: string, weight: string, url: string) => {
-  if (typeof window === 'undefined') return;
-  const handle = delayRender(`Font: ${fontFamily} (${weight})`);
-  const fontFace = new FontFace(fontFamily, `url(${staticFile(url)})`, {
-    weight,
-    style: 'normal',
-    display: 'swap',
-  });
+const injectFontFace = (fontFamily: string, weight: string, url: string) => {
+  if (typeof document === 'undefined') {
+    return;
+  }
 
-  fontFace.load().then((loadedFace) => {
-    document.fonts.add(loadedFace);
-    continueRender(handle);
-  }).catch((err) => {
-    console.error(`Failed to load font ${fontFamily} ${weight}:`, err);
-    continueRender(handle);
-  });
+  const styleId = `font-${fontFamily}-${weight}`.replace(/[^a-z0-9_-]/gi, '-').toLowerCase();
+  if (document.getElementById(styleId)) {
+    return;
+  }
+
+  const style = document.createElement('style');
+  style.id = styleId;
+  style.textContent = `
+    @font-face {
+      font-family: "${fontFamily}";
+      src: url("${staticFile(url)}") format("woff2");
+      font-weight: ${weight};
+      font-style: normal;
+      font-display: swap;
+    }
+  `;
+  document.head.appendChild(style);
 };
 
-// Register all required families and weights
-registerFontFace('Inter', '400', '/fonts/inter-400.woff2');
-registerFontFace('Inter', '700', '/fonts/inter-700.woff2');
+injectFontFace('Inter', '400', '/fonts/inter-400.woff2');
+injectFontFace('Inter', '700', '/fonts/inter-700.woff2');
 
-registerFontFace('Montserrat', '400', '/fonts/montserrat-400.woff2');
-registerFontFace('Montserrat', '700', '/fonts/montserrat-700.woff2');
+injectFontFace('Montserrat', '400', '/fonts/montserrat-400.woff2');
+injectFontFace('Montserrat', '700', '/fonts/montserrat-700.woff2');
 
-registerFontFace('Playfair Display', '400', '/fonts/playfair-display-400.woff2');
-registerFontFace('Playfair Display', '700', '/fonts/playfair-display-700.woff2');
+injectFontFace('Playfair Display', '400', '/fonts/playfair-display-400.woff2');
+injectFontFace('Playfair Display', '700', '/fonts/playfair-display-700.woff2');
 
-registerFontFace('JetBrains Mono', '400', '/fonts/jetbrains-mono-400.woff2');
+injectFontFace('JetBrains Mono', '400', '/fonts/jetbrains-mono-400.woff2');
 
-registerFontFace('Hind Siliguri', '400', '/fonts/hind-siliguri-400.woff2');
-registerFontFace('Hind Siliguri', '700', '/fonts/hind-siliguri-700.woff2');
+injectFontFace('Hind Siliguri', '400', '/fonts/hind-siliguri-400.woff2');
+injectFontFace('Hind Siliguri', '700', '/fonts/hind-siliguri-700.woff2');
 
 // --- Exported font-family strings ---
 // We use the family names registered above.
