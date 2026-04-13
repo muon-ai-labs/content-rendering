@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "build": "tsc --noEmit",
-    "render:paper": "remotion render src/index.ts LongForm5Min-Paper out/longform-5min-paper.mp4 --gl=angle",
-    "render:midnight": "remotion render src/index.ts LongForm5Min-Midnight out/longform-5min-midnight.mp4 --gl=angle",
-    "render:sample": "remotion render src/index.ts LongForm5Min-Paper out/longform-5min-paper.mp4 --gl=angle"
+    "render:paper": "remotion render src/index.ts ActualPaperDepth5Min out/actual-paper-depth-5min.mp4 --gl=angle",
+    "render:editorial": "remotion render src/index.ts ActualEditorialV55Min out/actual-editorial-v5-5min.mp4 --gl=angle",
+    "render:sample": "remotion render src/index.ts ActualPaperDepth5Min out/actual-paper-depth-5min.mp4 --gl=angle"
   },
   "dependencies": {
     "react": "^18.3.1",

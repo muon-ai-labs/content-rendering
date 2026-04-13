@@ -1,0 +1,1584 @@
+{
+  "lessonId": "no-s-words-bn-to-en",
+  "aspect": "landscape",
+  "stylePresetId": "editorial-v5",
+  "audioSegments": [
+    {
+      "id": "topic-intro",
+      "lineId": "topic-intro",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-01.mp3",
+      "durationMs": 2520,
+      "startMs": 0
+    },
+    {
+      "id": "example-1-bn",
+      "lineId": "example-1-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-02.mp3",
+      "durationMs": 2568,
+      "startMs": 2520
+    },
+    {
+      "id": "example-1-right",
+      "lineId": "example-1-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-03.mp3",
+      "durationMs": 2928,
+      "startMs": 5088
+    },
+    {
+      "id": "example-2-bn",
+      "lineId": "example-2-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-04.mp3",
+      "durationMs": 3168,
+      "startMs": 8016
+    },
+    {
+      "id": "example-2-right",
+      "lineId": "example-2-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-05.mp3",
+      "durationMs": 3144,
+      "startMs": 11184
+    },
+    {
+      "id": "example-3-bn",
+      "lineId": "example-3-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-06.mp3",
+      "durationMs": 2376,
+      "startMs": 14328
+    },
+    {
+      "id": "example-3-right",
+      "lineId": "example-3-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-07.mp3",
+      "durationMs": 2496,
+      "startMs": 16704
+    },
+    {
+      "id": "example-4-bn",
+      "lineId": "example-4-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-08.mp3",
+      "durationMs": 3240,
+      "startMs": 19200
+    },
+    {
+      "id": "example-4-right",
+      "lineId": "example-4-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-09.mp3",
+      "durationMs": 3240,
+      "startMs": 22440
+    },
+    {
+      "id": "example-5-bn",
+      "lineId": "example-5-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-10.mp3",
+      "durationMs": 2400,
+      "startMs": 25680
+    },
+    {
+      "id": "example-5-right",
+      "lineId": "example-5-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-11.mp3",
+      "durationMs": 2400,
+      "startMs": 28080
+    },
+    {
+      "id": "example-6-bn",
+      "lineId": "example-6-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-02.mp3",
+      "durationMs": 2568,
+      "startMs": 30480
+    },
+    {
+      "id": "example-6-right",
+      "lineId": "example-6-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-03.mp3",
+      "durationMs": 2928,
+      "startMs": 33048
+    },
+    {
+      "id": "example-7-bn",
+      "lineId": "example-7-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-04.mp3",
+      "durationMs": 3168,
+      "startMs": 35976
+    },
+    {
+      "id": "example-7-right",
+      "lineId": "example-7-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-05.mp3",
+      "durationMs": 3144,
+      "startMs": 39144
+    },
+    {
+      "id": "example-8-bn",
+      "lineId": "example-8-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-06.mp3",
+      "durationMs": 2376,
+      "startMs": 42288
+    },
+    {
+      "id": "example-8-right",
+      "lineId": "example-8-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-07.mp3",
+      "durationMs": 2496,
+      "startMs": 44664
+    },
+    {
+      "id": "example-9-bn",
+      "lineId": "example-9-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-08.mp3",
+      "durationMs": 3240,
+      "startMs": 47160
+    },
+    {
+      "id": "example-9-right",
+      "lineId": "example-9-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-09.mp3",
+      "durationMs": 3240,
+      "startMs": 50400
+    },
+    {
+      "id": "example-10-bn",
+      "lineId": "example-10-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-10.mp3",
+      "durationMs": 2400,
+      "startMs": 53640
+    },
+    {
+      "id": "example-10-right",
+      "lineId": "example-10-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-11.mp3",
+      "durationMs": 2400,
+      "startMs": 56040
+    },
+    {
+      "id": "example-11-bn",
+      "lineId": "example-11-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-02.mp3",
+      "durationMs": 2568,
+      "startMs": 58440
+    },
+    {
+      "id": "example-11-right",
+      "lineId": "example-11-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-03.mp3",
+      "durationMs": 2928,
+      "startMs": 61008
+    },
+    {
+      "id": "example-12-bn",
+      "lineId": "example-12-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-04.mp3",
+      "durationMs": 3168,
+      "startMs": 63936
+    },
+    {
+      "id": "example-12-right",
+      "lineId": "example-12-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-05.mp3",
+      "durationMs": 3144,
+      "startMs": 67104
+    },
+    {
+      "id": "example-13-bn",
+      "lineId": "example-13-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-06.mp3",
+      "durationMs": 2376,
+      "startMs": 70248
+    },
+    {
+      "id": "example-13-right",
+      "lineId": "example-13-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-07.mp3",
+      "durationMs": 2496,
+      "startMs": 72624
+    },
+    {
+      "id": "example-14-bn",
+      "lineId": "example-14-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-08.mp3",
+      "durationMs": 3240,
+      "startMs": 75120
+    },
+    {
+      "id": "example-14-right",
+      "lineId": "example-14-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-09.mp3",
+      "durationMs": 3240,
+      "startMs": 78360
+    },
+    {
+      "id": "example-15-bn",
+      "lineId": "example-15-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-10.mp3",
+      "durationMs": 2400,
+      "startMs": 81600
+    },
+    {
+      "id": "example-15-right",
+      "lineId": "example-15-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-11.mp3",
+      "durationMs": 2400,
+      "startMs": 84000
+    },
+    {
+      "id": "example-16-bn",
+      "lineId": "example-16-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-02.mp3",
+      "durationMs": 2568,
+      "startMs": 86400
+    },
+    {
+      "id": "example-16-right",
+      "lineId": "example-16-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-03.mp3",
+      "durationMs": 2928,
+      "startMs": 88968
+    },
+    {
+      "id": "example-17-bn",
+      "lineId": "example-17-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-04.mp3",
+      "durationMs": 3168,
+      "startMs": 91896
+    },
+    {
+      "id": "example-17-right",
+      "lineId": "example-17-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-05.mp3",
+      "durationMs": 3144,
+      "startMs": 95064
+    },
+    {
+      "id": "example-18-bn",
+      "lineId": "example-18-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-06.mp3",
+      "durationMs": 2376,
+      "startMs": 98208
+    },
+    {
+      "id": "example-18-right",
+      "lineId": "example-18-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-07.mp3",
+      "durationMs": 2496,
+      "startMs": 100584
+    },
+    {
+      "id": "example-19-bn",
+      "lineId": "example-19-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-08.mp3",
+      "durationMs": 3240,
+      "startMs": 103080
+    },
+    {
+      "id": "example-19-right",
+      "lineId": "example-19-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-09.mp3",
+      "durationMs": 3240,
+      "startMs": 106320
+    },
+    {
+      "id": "example-20-bn",
+      "lineId": "example-20-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-10.mp3",
+      "durationMs": 2400,
+      "startMs": 109560
+    },
+    {
+      "id": "example-20-right",
+      "lineId": "example-20-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-11.mp3",
+      "durationMs": 2400,
+      "startMs": 111960
+    },
+    {
+      "id": "example-21-bn",
+      "lineId": "example-21-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-02.mp3",
+      "durationMs": 2568,
+      "startMs": 114360
+    },
+    {
+      "id": "example-21-right",
+      "lineId": "example-21-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-03.mp3",
+      "durationMs": 2928,
+      "startMs": 116928
+    },
+    {
+      "id": "example-22-bn",
+      "lineId": "example-22-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-04.mp3",
+      "durationMs": 3168,
+      "startMs": 119856
+    },
+    {
+      "id": "example-22-right",
+      "lineId": "example-22-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-05.mp3",
+      "durationMs": 3144,
+      "startMs": 123024
+    },
+    {
+      "id": "example-23-bn",
+      "lineId": "example-23-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-06.mp3",
+      "durationMs": 2376,
+      "startMs": 126168
+    },
+    {
+      "id": "example-23-right",
+      "lineId": "example-23-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-07.mp3",
+      "durationMs": 2496,
+      "startMs": 128544
+    },
+    {
+      "id": "example-24-bn",
+      "lineId": "example-24-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-08.mp3",
+      "durationMs": 3240,
+      "startMs": 131040
+    },
+    {
+      "id": "example-24-right",
+      "lineId": "example-24-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-09.mp3",
+      "durationMs": 3240,
+      "startMs": 134280
+    },
+    {
+      "id": "example-25-bn",
+      "lineId": "example-25-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-10.mp3",
+      "durationMs": 2400,
+      "startMs": 137520
+    },
+    {
+      "id": "example-25-right",
+      "lineId": "example-25-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-11.mp3",
+      "durationMs": 2400,
+      "startMs": 139920
+    },
+    {
+      "id": "example-26-bn",
+      "lineId": "example-26-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-02.mp3",
+      "durationMs": 2568,
+      "startMs": 142320
+    },
+    {
+      "id": "example-26-right",
+      "lineId": "example-26-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-03.mp3",
+      "durationMs": 2928,
+      "startMs": 144888
+    },
+    {
+      "id": "example-27-bn",
+      "lineId": "example-27-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-04.mp3",
+      "durationMs": 3168,
+      "startMs": 147816
+    },
+    {
+      "id": "example-27-right",
+      "lineId": "example-27-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-05.mp3",
+      "durationMs": 3144,
+      "startMs": 150984
+    },
+    {
+      "id": "example-28-bn",
+      "lineId": "example-28-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-06.mp3",
+      "durationMs": 2376,
+      "startMs": 154128
+    },
+    {
+      "id": "example-28-right",
+      "lineId": "example-28-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-07.mp3",
+      "durationMs": 2496,
+      "startMs": 156504
+    },
+    {
+      "id": "example-29-bn",
+      "lineId": "example-29-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-08.mp3",
+      "durationMs": 3240,
+      "startMs": 159000
+    },
+    {
+      "id": "example-29-right",
+      "lineId": "example-29-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-09.mp3",
+      "durationMs": 3240,
+      "startMs": 162240
+    },
+    {
+      "id": "example-30-bn",
+      "lineId": "example-30-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-10.mp3",
+      "durationMs": 2400,
+      "startMs": 165480
+    },
+    {
+      "id": "example-30-right",
+      "lineId": "example-30-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-11.mp3",
+      "durationMs": 2400,
+      "startMs": 167880
+    },
+    {
+      "id": "example-31-bn",
+      "lineId": "example-31-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-02.mp3",
+      "durationMs": 2568,
+      "startMs": 170280
+    },
+    {
+      "id": "example-31-right",
+      "lineId": "example-31-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-03.mp3",
+      "durationMs": 2928,
+      "startMs": 172848
+    },
+    {
+      "id": "example-32-bn",
+      "lineId": "example-32-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-04.mp3",
+      "durationMs": 3168,
+      "startMs": 175776
+    },
+    {
+      "id": "example-32-right",
+      "lineId": "example-32-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-05.mp3",
+      "durationMs": 3144,
+      "startMs": 178944
+    },
+    {
+      "id": "example-33-bn",
+      "lineId": "example-33-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-06.mp3",
+      "durationMs": 2376,
+      "startMs": 182088
+    },
+    {
+      "id": "example-33-right",
+      "lineId": "example-33-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-07.mp3",
+      "durationMs": 2496,
+      "startMs": 184464
+    },
+    {
+      "id": "example-34-bn",
+      "lineId": "example-34-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-08.mp3",
+      "durationMs": 3240,
+      "startMs": 186960
+    },
+    {
+      "id": "example-34-right",
+      "lineId": "example-34-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-09.mp3",
+      "durationMs": 3240,
+      "startMs": 190200
+    },
+    {
+      "id": "example-35-bn",
+      "lineId": "example-35-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-10.mp3",
+      "durationMs": 2400,
+      "startMs": 193440
+    },
+    {
+      "id": "example-35-right",
+      "lineId": "example-35-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-11.mp3",
+      "durationMs": 2400,
+      "startMs": 195840
+    },
+    {
+      "id": "example-36-bn",
+      "lineId": "example-36-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-02.mp3",
+      "durationMs": 2568,
+      "startMs": 198240
+    },
+    {
+      "id": "example-36-right",
+      "lineId": "example-36-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-03.mp3",
+      "durationMs": 2928,
+      "startMs": 200808
+    },
+    {
+      "id": "example-37-bn",
+      "lineId": "example-37-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-04.mp3",
+      "durationMs": 3168,
+      "startMs": 203736
+    },
+    {
+      "id": "example-37-right",
+      "lineId": "example-37-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-05.mp3",
+      "durationMs": 3144,
+      "startMs": 206904
+    },
+    {
+      "id": "example-38-bn",
+      "lineId": "example-38-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-06.mp3",
+      "durationMs": 2376,
+      "startMs": 210048
+    },
+    {
+      "id": "example-38-right",
+      "lineId": "example-38-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-07.mp3",
+      "durationMs": 2496,
+      "startMs": 212424
+    },
+    {
+      "id": "example-39-bn",
+      "lineId": "example-39-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-08.mp3",
+      "durationMs": 3240,
+      "startMs": 214920
+    },
+    {
+      "id": "example-39-right",
+      "lineId": "example-39-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-09.mp3",
+      "durationMs": 3240,
+      "startMs": 218160
+    },
+    {
+      "id": "example-40-bn",
+      "lineId": "example-40-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-10.mp3",
+      "durationMs": 2400,
+      "startMs": 221400
+    },
+    {
+      "id": "example-40-right",
+      "lineId": "example-40-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-11.mp3",
+      "durationMs": 2400,
+      "startMs": 223800
+    },
+    {
+      "id": "example-41-bn",
+      "lineId": "example-41-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-02.mp3",
+      "durationMs": 2568,
+      "startMs": 226200
+    },
+    {
+      "id": "example-41-right",
+      "lineId": "example-41-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-03.mp3",
+      "durationMs": 2928,
+      "startMs": 228768
+    },
+    {
+      "id": "example-42-bn",
+      "lineId": "example-42-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-04.mp3",
+      "durationMs": 3168,
+      "startMs": 231696
+    },
+    {
+      "id": "example-42-right",
+      "lineId": "example-42-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-05.mp3",
+      "durationMs": 3144,
+      "startMs": 234864
+    },
+    {
+      "id": "example-43-bn",
+      "lineId": "example-43-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-06.mp3",
+      "durationMs": 2376,
+      "startMs": 238008
+    },
+    {
+      "id": "example-43-right",
+      "lineId": "example-43-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-07.mp3",
+      "durationMs": 2496,
+      "startMs": 240384
+    },
+    {
+      "id": "example-44-bn",
+      "lineId": "example-44-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-08.mp3",
+      "durationMs": 3240,
+      "startMs": 242880
+    },
+    {
+      "id": "example-44-right",
+      "lineId": "example-44-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-09.mp3",
+      "durationMs": 3240,
+      "startMs": 246120
+    },
+    {
+      "id": "example-45-bn",
+      "lineId": "example-45-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-10.mp3",
+      "durationMs": 2400,
+      "startMs": 249360
+    },
+    {
+      "id": "example-45-right",
+      "lineId": "example-45-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-11.mp3",
+      "durationMs": 2400,
+      "startMs": 251760
+    },
+    {
+      "id": "example-46-bn",
+      "lineId": "example-46-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-02.mp3",
+      "durationMs": 2568,
+      "startMs": 254160
+    },
+    {
+      "id": "example-46-right",
+      "lineId": "example-46-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-03.mp3",
+      "durationMs": 2928,
+      "startMs": 256728
+    },
+    {
+      "id": "example-47-bn",
+      "lineId": "example-47-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-04.mp3",
+      "durationMs": 3168,
+      "startMs": 259656
+    },
+    {
+      "id": "example-47-right",
+      "lineId": "example-47-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-05.mp3",
+      "durationMs": 3144,
+      "startMs": 262824
+    },
+    {
+      "id": "example-48-bn",
+      "lineId": "example-48-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-06.mp3",
+      "durationMs": 2376,
+      "startMs": 265968
+    },
+    {
+      "id": "example-48-right",
+      "lineId": "example-48-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-07.mp3",
+      "durationMs": 2496,
+      "startMs": 268344
+    },
+    {
+      "id": "example-49-bn",
+      "lineId": "example-49-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-08.mp3",
+      "durationMs": 3240,
+      "startMs": 270840
+    },
+    {
+      "id": "example-49-right",
+      "lineId": "example-49-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-09.mp3",
+      "durationMs": 3240,
+      "startMs": 274080
+    },
+    {
+      "id": "example-50-bn",
+      "lineId": "example-50-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-10.mp3",
+      "durationMs": 2400,
+      "startMs": 277320
+    },
+    {
+      "id": "example-50-right",
+      "lineId": "example-50-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-11.mp3",
+      "durationMs": 2400,
+      "startMs": 279720
+    },
+    {
+      "id": "example-51-bn",
+      "lineId": "example-51-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-02.mp3",
+      "durationMs": 2568,
+      "startMs": 282120
+    },
+    {
+      "id": "example-51-right",
+      "lineId": "example-51-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-03.mp3",
+      "durationMs": 2928,
+      "startMs": 284688
+    },
+    {
+      "id": "recap-title",
+      "lineId": "recap-title",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-12.mp3",
+      "durationMs": 3672,
+      "startMs": 287616
+    },
+    {
+      "id": "recap-memory",
+      "lineId": "recap-memory",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-2-no-s-words-bn-to-en-v2-editorial-v5-bn_to_en_short-13.mp3",
+      "durationMs": 8184,
+      "startMs": 291288
+    }
+  ],
+  "beats": [
+    {
+      "id": "beat-topic-intro",
+      "kind": "topic_intro",
+      "startMs": 0,
+      "endMs": 2520,
+      "payload": {
+        "title": "Used To vs Usually",
+        "kicker": "In-Depth Analysis"
+      }
+    },
+    {
+      "id": "beat-example-1",
+      "kind": "example_pair",
+      "startMs": 2520,
+      "endMs": 8016,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 1",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি ছোটবেলায় ভোরে উঠতাম।",
+        "bnAtMs": 0,
+        "rightText": "I used to wake up early as a child.",
+        "rightAtMs": 2568
+      }
+    },
+    {
+      "id": "beat-example-2",
+      "kind": "example_pair",
+      "startMs": 8016,
+      "endMs": 14328,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 2",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন আমি সাধারণত একটু দেরিতে উঠি।",
+        "bnAtMs": 0,
+        "rightText": "Now I usually wake up a little later.",
+        "rightAtMs": 3168
+      }
+    },
+    {
+      "id": "beat-example-3",
+      "kind": "example_pair",
+      "startMs": 14328,
+      "endMs": 19200,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 3",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আগে ঢাকায় থাকত।",
+        "bnAtMs": 0,
+        "rightText": "She used to live in Dhaka.",
+        "rightAtMs": 2376
+      }
+    },
+    {
+      "id": "beat-example-4",
+      "kind": "example_pair",
+      "startMs": 19200,
+      "endMs": 25680,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 4",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন সে সাধারণত অফিসের কাছে থাকে।",
+        "bnAtMs": 0,
+        "rightText": "Now she usually stays near the office.",
+        "rightAtMs": 3240
+      }
+    },
+    {
+      "id": "beat-example-5",
+      "kind": "example_pair",
+      "startMs": 25680,
+      "endMs": 30480,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 5",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমরা আগে চিঠি লিখতাম।",
+        "bnAtMs": 0,
+        "rightText": "We used to write letters.",
+        "rightAtMs": 2400
+      }
+    },
+    {
+      "id": "beat-example-6",
+      "kind": "example_pair",
+      "startMs": 30480,
+      "endMs": 35976,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 6",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি ছোটবেলায় ভোরে উঠতাম।",
+        "bnAtMs": 0,
+        "rightText": "I used to wake up early as a child.",
+        "rightAtMs": 2568
+      }
+    },
+    {
+      "id": "beat-example-7",
+      "kind": "example_pair",
+      "startMs": 35976,
+      "endMs": 42288,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 7",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন আমি সাধারণত একটু দেরিতে উঠি।",
+        "bnAtMs": 0,
+        "rightText": "Now I usually wake up a little later.",
+        "rightAtMs": 3168
+      }
+    },
+    {
+      "id": "beat-example-8",
+      "kind": "example_pair",
+      "startMs": 42288,
+      "endMs": 47160,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 8",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আগে ঢাকায় থাকত।",
+        "bnAtMs": 0,
+        "rightText": "She used to live in Dhaka.",
+        "rightAtMs": 2376
+      }
+    },
+    {
+      "id": "beat-example-9",
+      "kind": "example_pair",
+      "startMs": 47160,
+      "endMs": 53640,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 9",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন সে সাধারণত অফিসের কাছে থাকে।",
+        "bnAtMs": 0,
+        "rightText": "Now she usually stays near the office.",
+        "rightAtMs": 3240
+      }
+    },
+    {
+      "id": "beat-example-10",
+      "kind": "example_pair",
+      "startMs": 53640,
+      "endMs": 58440,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 10",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমরা আগে চিঠি লিখতাম।",
+        "bnAtMs": 0,
+        "rightText": "We used to write letters.",
+        "rightAtMs": 2400
+      }
+    },
+    {
+      "id": "beat-example-11",
+      "kind": "example_pair",
+      "startMs": 58440,
+      "endMs": 63936,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 11",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি ছোটবেলায় ভোরে উঠতাম।",
+        "bnAtMs": 0,
+        "rightText": "I used to wake up early as a child.",
+        "rightAtMs": 2568
+      }
+    },
+    {
+      "id": "beat-example-12",
+      "kind": "example_pair",
+      "startMs": 63936,
+      "endMs": 70248,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 12",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন আমি সাধারণত একটু দেরিতে উঠি।",
+        "bnAtMs": 0,
+        "rightText": "Now I usually wake up a little later.",
+        "rightAtMs": 3168
+      }
+    },
+    {
+      "id": "beat-example-13",
+      "kind": "example_pair",
+      "startMs": 70248,
+      "endMs": 75120,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 13",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আগে ঢাকায় থাকত।",
+        "bnAtMs": 0,
+        "rightText": "She used to live in Dhaka.",
+        "rightAtMs": 2376
+      }
+    },
+    {
+      "id": "beat-example-14",
+      "kind": "example_pair",
+      "startMs": 75120,
+      "endMs": 81600,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 14",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন সে সাধারণত অফিসের কাছে থাকে।",
+        "bnAtMs": 0,
+        "rightText": "Now she usually stays near the office.",
+        "rightAtMs": 3240
+      }
+    },
+    {
+      "id": "beat-example-15",
+      "kind": "example_pair",
+      "startMs": 81600,
+      "endMs": 86400,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 15",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমরা আগে চিঠি লিখতাম।",
+        "bnAtMs": 0,
+        "rightText": "We used to write letters.",
+        "rightAtMs": 2400
+      }
+    },
+    {
+      "id": "beat-example-16",
+      "kind": "example_pair",
+      "startMs": 86400,
+      "endMs": 91896,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 16",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি ছোটবেলায় ভোরে উঠতাম।",
+        "bnAtMs": 0,
+        "rightText": "I used to wake up early as a child.",
+        "rightAtMs": 2568
+      }
+    },
+    {
+      "id": "beat-example-17",
+      "kind": "example_pair",
+      "startMs": 91896,
+      "endMs": 98208,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 17",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন আমি সাধারণত একটু দেরিতে উঠি।",
+        "bnAtMs": 0,
+        "rightText": "Now I usually wake up a little later.",
+        "rightAtMs": 3168
+      }
+    },
+    {
+      "id": "beat-example-18",
+      "kind": "example_pair",
+      "startMs": 98208,
+      "endMs": 103080,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 18",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আগে ঢাকায় থাকত।",
+        "bnAtMs": 0,
+        "rightText": "She used to live in Dhaka.",
+        "rightAtMs": 2376
+      }
+    },
+    {
+      "id": "beat-example-19",
+      "kind": "example_pair",
+      "startMs": 103080,
+      "endMs": 109560,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 19",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন সে সাধারণত অফিসের কাছে থাকে।",
+        "bnAtMs": 0,
+        "rightText": "Now she usually stays near the office.",
+        "rightAtMs": 3240
+      }
+    },
+    {
+      "id": "beat-example-20",
+      "kind": "example_pair",
+      "startMs": 109560,
+      "endMs": 114360,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 20",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমরা আগে চিঠি লিখতাম।",
+        "bnAtMs": 0,
+        "rightText": "We used to write letters.",
+        "rightAtMs": 2400
+      }
+    },
+    {
+      "id": "beat-example-21",
+      "kind": "example_pair",
+      "startMs": 114360,
+      "endMs": 119856,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 21",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি ছোটবেলায় ভোরে উঠতাম।",
+        "bnAtMs": 0,
+        "rightText": "I used to wake up early as a child.",
+        "rightAtMs": 2568
+      }
+    },
+    {
+      "id": "beat-example-22",
+      "kind": "example_pair",
+      "startMs": 119856,
+      "endMs": 126168,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 22",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন আমি সাধারণত একটু দেরিতে উঠি।",
+        "bnAtMs": 0,
+        "rightText": "Now I usually wake up a little later.",
+        "rightAtMs": 3168
+      }
+    },
+    {
+      "id": "beat-example-23",
+      "kind": "example_pair",
+      "startMs": 126168,
+      "endMs": 131040,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 23",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আগে ঢাকায় থাকত।",
+        "bnAtMs": 0,
+        "rightText": "She used to live in Dhaka.",
+        "rightAtMs": 2376
+      }
+    },
+    {
+      "id": "beat-example-24",
+      "kind": "example_pair",
+      "startMs": 131040,
+      "endMs": 137520,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 24",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন সে সাধারণত অফিসের কাছে থাকে।",
+        "bnAtMs": 0,
+        "rightText": "Now she usually stays near the office.",
+        "rightAtMs": 3240
+      }
+    },
+    {
+      "id": "beat-example-25",
+      "kind": "example_pair",
+      "startMs": 137520,
+      "endMs": 142320,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 25",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমরা আগে চিঠি লিখতাম।",
+        "bnAtMs": 0,
+        "rightText": "We used to write letters.",
+        "rightAtMs": 2400
+      }
+    },
+    {
+      "id": "beat-example-26",
+      "kind": "example_pair",
+      "startMs": 142320,
+      "endMs": 147816,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 26",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি ছোটবেলায় ভোরে উঠতাম।",
+        "bnAtMs": 0,
+        "rightText": "I used to wake up early as a child.",
+        "rightAtMs": 2568
+      }
+    },
+    {
+      "id": "beat-example-27",
+      "kind": "example_pair",
+      "startMs": 147816,
+      "endMs": 154128,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 27",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন আমি সাধারণত একটু দেরিতে উঠি।",
+        "bnAtMs": 0,
+        "rightText": "Now I usually wake up a little later.",
+        "rightAtMs": 3168
+      }
+    },
+    {
+      "id": "beat-example-28",
+      "kind": "example_pair",
+      "startMs": 154128,
+      "endMs": 159000,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 28",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আগে ঢাকায় থাকত।",
+        "bnAtMs": 0,
+        "rightText": "She used to live in Dhaka.",
+        "rightAtMs": 2376
+      }
+    },
+    {
+      "id": "beat-example-29",
+      "kind": "example_pair",
+      "startMs": 159000,
+      "endMs": 165480,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 29",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন সে সাধারণত অফিসের কাছে থাকে।",
+        "bnAtMs": 0,
+        "rightText": "Now she usually stays near the office.",
+        "rightAtMs": 3240
+      }
+    },
+    {
+      "id": "beat-example-30",
+      "kind": "example_pair",
+      "startMs": 165480,
+      "endMs": 170280,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 30",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমরা আগে চিঠি লিখতাম।",
+        "bnAtMs": 0,
+        "rightText": "We used to write letters.",
+        "rightAtMs": 2400
+      }
+    },
+    {
+      "id": "beat-example-31",
+      "kind": "example_pair",
+      "startMs": 170280,
+      "endMs": 175776,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 31",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি ছোটবেলায় ভোরে উঠতাম।",
+        "bnAtMs": 0,
+        "rightText": "I used to wake up early as a child.",
+        "rightAtMs": 2568
+      }
+    },
+    {
+      "id": "beat-example-32",
+      "kind": "example_pair",
+      "startMs": 175776,
+      "endMs": 182088,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 32",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন আমি সাধারণত একটু দেরিতে উঠি।",
+        "bnAtMs": 0,
+        "rightText": "Now I usually wake up a little later.",
+        "rightAtMs": 3168
+      }
+    },
+    {
+      "id": "beat-example-33",
+      "kind": "example_pair",
+      "startMs": 182088,
+      "endMs": 186960,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 33",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আগে ঢাকায় থাকত।",
+        "bnAtMs": 0,
+        "rightText": "She used to live in Dhaka.",
+        "rightAtMs": 2376
+      }
+    },
+    {
+      "id": "beat-example-34",
+      "kind": "example_pair",
+      "startMs": 186960,
+      "endMs": 193440,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 34",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন সে সাধারণত অফিসের কাছে থাকে।",
+        "bnAtMs": 0,
+        "rightText": "Now she usually stays near the office.",
+        "rightAtMs": 3240
+      }
+    },
+    {
+      "id": "beat-example-35",
+      "kind": "example_pair",
+      "startMs": 193440,
+      "endMs": 198240,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 35",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমরা আগে চিঠি লিখতাম।",
+        "bnAtMs": 0,
+        "rightText": "We used to write letters.",
+        "rightAtMs": 2400
+      }
+    },
+    {
+      "id": "beat-example-36",
+      "kind": "example_pair",
+      "startMs": 198240,
+      "endMs": 203736,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 36",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি ছোটবেলায় ভোরে উঠতাম।",
+        "bnAtMs": 0,
+        "rightText": "I used to wake up early as a child.",
+        "rightAtMs": 2568
+      }
+    },
+    {
+      "id": "beat-example-37",
+      "kind": "example_pair",
+      "startMs": 203736,
+      "endMs": 210048,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 37",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন আমি সাধারণত একটু দেরিতে উঠি।",
+        "bnAtMs": 0,
+        "rightText": "Now I usually wake up a little later.",
+        "rightAtMs": 3168
+      }
+    },
+    {
+      "id": "beat-example-38",
+      "kind": "example_pair",
+      "startMs": 210048,
+      "endMs": 214920,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 38",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আগে ঢাকায় থাকত।",
+        "bnAtMs": 0,
+        "rightText": "She used to live in Dhaka.",
+        "rightAtMs": 2376
+      }
+    },
+    {
+      "id": "beat-example-39",
+      "kind": "example_pair",
+      "startMs": 214920,
+      "endMs": 221400,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 39",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন সে সাধারণত অফিসের কাছে থাকে।",
+        "bnAtMs": 0,
+        "rightText": "Now she usually stays near the office.",
+        "rightAtMs": 3240
+      }
+    },
+    {
+      "id": "beat-example-40",
+      "kind": "example_pair",
+      "startMs": 221400,
+      "endMs": 226200,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 40",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমরা আগে চিঠি লিখতাম।",
+        "bnAtMs": 0,
+        "rightText": "We used to write letters.",
+        "rightAtMs": 2400
+      }
+    },
+    {
+      "id": "beat-example-41",
+      "kind": "example_pair",
+      "startMs": 226200,
+      "endMs": 231696,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 41",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি ছোটবেলায় ভোরে উঠতাম।",
+        "bnAtMs": 0,
+        "rightText": "I used to wake up early as a child.",
+        "rightAtMs": 2568
+      }
+    },
+    {
+      "id": "beat-example-42",
+      "kind": "example_pair",
+      "startMs": 231696,
+      "endMs": 238008,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 42",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন আমি সাধারণত একটু দেরিতে উঠি।",
+        "bnAtMs": 0,
+        "rightText": "Now I usually wake up a little later.",
+        "rightAtMs": 3168
+      }
+    },
+    {
+      "id": "beat-example-43",
+      "kind": "example_pair",
+      "startMs": 238008,
+      "endMs": 242880,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 43",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আগে ঢাকায় থাকত।",
+        "bnAtMs": 0,
+        "rightText": "She used to live in Dhaka.",
+        "rightAtMs": 2376
+      }
+    },
+    {
+      "id": "beat-example-44",
+      "kind": "example_pair",
+      "startMs": 242880,
+      "endMs": 249360,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 44",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন সে সাধারণত অফিসের কাছে থাকে।",
+        "bnAtMs": 0,
+        "rightText": "Now she usually stays near the office.",
+        "rightAtMs": 3240
+      }
+    },
+    {
+      "id": "beat-example-45",
+      "kind": "example_pair",
+      "startMs": 249360,
+      "endMs": 254160,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 45",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমরা আগে চিঠি লিখতাম।",
+        "bnAtMs": 0,
+        "rightText": "We used to write letters.",
+        "rightAtMs": 2400
+      }
+    },
+    {
+      "id": "beat-example-46",
+      "kind": "example_pair",
+      "startMs": 254160,
+      "endMs": 259656,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 46",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি ছোটবেলায় ভোরে উঠতাম।",
+        "bnAtMs": 0,
+        "rightText": "I used to wake up early as a child.",
+        "rightAtMs": 2568
+      }
+    },
+    {
+      "id": "beat-example-47",
+      "kind": "example_pair",
+      "startMs": 259656,
+      "endMs": 265968,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 47",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন আমি সাধারণত একটু দেরিতে উঠি।",
+        "bnAtMs": 0,
+        "rightText": "Now I usually wake up a little later.",
+        "rightAtMs": 3168
+      }
+    },
+    {
+      "id": "beat-example-48",
+      "kind": "example_pair",
+      "startMs": 265968,
+      "endMs": 270840,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 48",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আগে ঢাকায় থাকত।",
+        "bnAtMs": 0,
+        "rightText": "She used to live in Dhaka.",
+        "rightAtMs": 2376
+      }
+    },
+    {
+      "id": "beat-example-49",
+      "kind": "example_pair",
+      "startMs": 270840,
+      "endMs": 277320,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 49",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এখন সে সাধারণত অফিসের কাছে থাকে।",
+        "bnAtMs": 0,
+        "rightText": "Now she usually stays near the office.",
+        "rightAtMs": 3240
+      }
+    },
+    {
+      "id": "beat-example-50",
+      "kind": "example_pair",
+      "startMs": 277320,
+      "endMs": 282120,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 50",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমরা আগে চিঠি লিখতাম।",
+        "bnAtMs": 0,
+        "rightText": "We used to write letters.",
+        "rightAtMs": 2400
+      }
+    },
+    {
+      "id": "beat-example-51",
+      "kind": "example_pair",
+      "startMs": 282120,
+      "endMs": 287616,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 51",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি ছোটবেলায় ভোরে উঠতাম।",
+        "bnAtMs": 0,
+        "rightText": "I used to wake up early as a child.",
+        "rightAtMs": 2568
+      }
+    },
+    {
+      "id": "beat-recap",
+      "kind": "recap",
+      "startMs": 287616,
+      "endMs": 299872,
+      "payload": {
+        "title": "Final Review: Practice English Every Day",
+        "memory": "Advance your communication skills. Download the Muon AI app for free lessons and daily speaking practice.",
+        "recapMode": "cta",
+        "ctaKind": "app",
+        "actionLabel": "Get the Muon AI Android app"
+      }
+    }
+  ],
+  "overrides": null
+}

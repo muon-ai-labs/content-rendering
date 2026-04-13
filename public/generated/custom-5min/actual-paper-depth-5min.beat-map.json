@@ -1,0 +1,1644 @@
+{
+  "lessonId": "no-s-words-bn-to-en",
+  "aspect": "landscape",
+  "stylePresetId": "paper-depth",
+  "audioSegments": [
+    {
+      "id": "topic-intro",
+      "lineId": "topic-intro",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-01.mp3",
+      "durationMs": 3504,
+      "startMs": 0
+    },
+    {
+      "id": "example-1-bn",
+      "lineId": "example-1-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-02.mp3",
+      "durationMs": 3120,
+      "startMs": 3504
+    },
+    {
+      "id": "example-1-right",
+      "lineId": "example-1-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-03.mp3",
+      "durationMs": 2736,
+      "startMs": 6624
+    },
+    {
+      "id": "example-2-bn",
+      "lineId": "example-2-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-04.mp3",
+      "durationMs": 2688,
+      "startMs": 9360
+    },
+    {
+      "id": "example-2-right",
+      "lineId": "example-2-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-05.mp3",
+      "durationMs": 2352,
+      "startMs": 12048
+    },
+    {
+      "id": "example-3-bn",
+      "lineId": "example-3-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-06.mp3",
+      "durationMs": 2544,
+      "startMs": 14400
+    },
+    {
+      "id": "example-3-right",
+      "lineId": "example-3-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-07.mp3",
+      "durationMs": 2064,
+      "startMs": 16944
+    },
+    {
+      "id": "example-4-bn",
+      "lineId": "example-4-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-08.mp3",
+      "durationMs": 2760,
+      "startMs": 19008
+    },
+    {
+      "id": "example-4-right",
+      "lineId": "example-4-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-09.mp3",
+      "durationMs": 2712,
+      "startMs": 21768
+    },
+    {
+      "id": "example-5-bn",
+      "lineId": "example-5-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-10.mp3",
+      "durationMs": 3192,
+      "startMs": 24480
+    },
+    {
+      "id": "example-5-right",
+      "lineId": "example-5-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-11.mp3",
+      "durationMs": 2592,
+      "startMs": 27672
+    },
+    {
+      "id": "example-6-bn",
+      "lineId": "example-6-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-02.mp3",
+      "durationMs": 3120,
+      "startMs": 30264
+    },
+    {
+      "id": "example-6-right",
+      "lineId": "example-6-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-03.mp3",
+      "durationMs": 2736,
+      "startMs": 33384
+    },
+    {
+      "id": "example-7-bn",
+      "lineId": "example-7-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-04.mp3",
+      "durationMs": 2688,
+      "startMs": 36120
+    },
+    {
+      "id": "example-7-right",
+      "lineId": "example-7-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-05.mp3",
+      "durationMs": 2352,
+      "startMs": 38808
+    },
+    {
+      "id": "example-8-bn",
+      "lineId": "example-8-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-06.mp3",
+      "durationMs": 2544,
+      "startMs": 41160
+    },
+    {
+      "id": "example-8-right",
+      "lineId": "example-8-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-07.mp3",
+      "durationMs": 2064,
+      "startMs": 43704
+    },
+    {
+      "id": "example-9-bn",
+      "lineId": "example-9-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-08.mp3",
+      "durationMs": 2760,
+      "startMs": 45768
+    },
+    {
+      "id": "example-9-right",
+      "lineId": "example-9-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-09.mp3",
+      "durationMs": 2712,
+      "startMs": 48528
+    },
+    {
+      "id": "example-10-bn",
+      "lineId": "example-10-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-10.mp3",
+      "durationMs": 3192,
+      "startMs": 51240
+    },
+    {
+      "id": "example-10-right",
+      "lineId": "example-10-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-11.mp3",
+      "durationMs": 2592,
+      "startMs": 54432
+    },
+    {
+      "id": "example-11-bn",
+      "lineId": "example-11-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-02.mp3",
+      "durationMs": 3120,
+      "startMs": 57024
+    },
+    {
+      "id": "example-11-right",
+      "lineId": "example-11-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-03.mp3",
+      "durationMs": 2736,
+      "startMs": 60144
+    },
+    {
+      "id": "example-12-bn",
+      "lineId": "example-12-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-04.mp3",
+      "durationMs": 2688,
+      "startMs": 62880
+    },
+    {
+      "id": "example-12-right",
+      "lineId": "example-12-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-05.mp3",
+      "durationMs": 2352,
+      "startMs": 65568
+    },
+    {
+      "id": "example-13-bn",
+      "lineId": "example-13-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-06.mp3",
+      "durationMs": 2544,
+      "startMs": 67920
+    },
+    {
+      "id": "example-13-right",
+      "lineId": "example-13-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-07.mp3",
+      "durationMs": 2064,
+      "startMs": 70464
+    },
+    {
+      "id": "example-14-bn",
+      "lineId": "example-14-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-08.mp3",
+      "durationMs": 2760,
+      "startMs": 72528
+    },
+    {
+      "id": "example-14-right",
+      "lineId": "example-14-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-09.mp3",
+      "durationMs": 2712,
+      "startMs": 75288
+    },
+    {
+      "id": "example-15-bn",
+      "lineId": "example-15-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-10.mp3",
+      "durationMs": 3192,
+      "startMs": 78000
+    },
+    {
+      "id": "example-15-right",
+      "lineId": "example-15-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-11.mp3",
+      "durationMs": 2592,
+      "startMs": 81192
+    },
+    {
+      "id": "example-16-bn",
+      "lineId": "example-16-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-02.mp3",
+      "durationMs": 3120,
+      "startMs": 83784
+    },
+    {
+      "id": "example-16-right",
+      "lineId": "example-16-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-03.mp3",
+      "durationMs": 2736,
+      "startMs": 86904
+    },
+    {
+      "id": "example-17-bn",
+      "lineId": "example-17-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-04.mp3",
+      "durationMs": 2688,
+      "startMs": 89640
+    },
+    {
+      "id": "example-17-right",
+      "lineId": "example-17-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-05.mp3",
+      "durationMs": 2352,
+      "startMs": 92328
+    },
+    {
+      "id": "example-18-bn",
+      "lineId": "example-18-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-06.mp3",
+      "durationMs": 2544,
+      "startMs": 94680
+    },
+    {
+      "id": "example-18-right",
+      "lineId": "example-18-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-07.mp3",
+      "durationMs": 2064,
+      "startMs": 97224
+    },
+    {
+      "id": "example-19-bn",
+      "lineId": "example-19-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-08.mp3",
+      "durationMs": 2760,
+      "startMs": 99288
+    },
+    {
+      "id": "example-19-right",
+      "lineId": "example-19-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-09.mp3",
+      "durationMs": 2712,
+      "startMs": 102048
+    },
+    {
+      "id": "example-20-bn",
+      "lineId": "example-20-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-10.mp3",
+      "durationMs": 3192,
+      "startMs": 104760
+    },
+    {
+      "id": "example-20-right",
+      "lineId": "example-20-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-11.mp3",
+      "durationMs": 2592,
+      "startMs": 107952
+    },
+    {
+      "id": "example-21-bn",
+      "lineId": "example-21-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-02.mp3",
+      "durationMs": 3120,
+      "startMs": 110544
+    },
+    {
+      "id": "example-21-right",
+      "lineId": "example-21-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-03.mp3",
+      "durationMs": 2736,
+      "startMs": 113664
+    },
+    {
+      "id": "example-22-bn",
+      "lineId": "example-22-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-04.mp3",
+      "durationMs": 2688,
+      "startMs": 116400
+    },
+    {
+      "id": "example-22-right",
+      "lineId": "example-22-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-05.mp3",
+      "durationMs": 2352,
+      "startMs": 119088
+    },
+    {
+      "id": "example-23-bn",
+      "lineId": "example-23-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-06.mp3",
+      "durationMs": 2544,
+      "startMs": 121440
+    },
+    {
+      "id": "example-23-right",
+      "lineId": "example-23-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-07.mp3",
+      "durationMs": 2064,
+      "startMs": 123984
+    },
+    {
+      "id": "example-24-bn",
+      "lineId": "example-24-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-08.mp3",
+      "durationMs": 2760,
+      "startMs": 126048
+    },
+    {
+      "id": "example-24-right",
+      "lineId": "example-24-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-09.mp3",
+      "durationMs": 2712,
+      "startMs": 128808
+    },
+    {
+      "id": "example-25-bn",
+      "lineId": "example-25-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-10.mp3",
+      "durationMs": 3192,
+      "startMs": 131520
+    },
+    {
+      "id": "example-25-right",
+      "lineId": "example-25-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-11.mp3",
+      "durationMs": 2592,
+      "startMs": 134712
+    },
+    {
+      "id": "example-26-bn",
+      "lineId": "example-26-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-02.mp3",
+      "durationMs": 3120,
+      "startMs": 137304
+    },
+    {
+      "id": "example-26-right",
+      "lineId": "example-26-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-03.mp3",
+      "durationMs": 2736,
+      "startMs": 140424
+    },
+    {
+      "id": "example-27-bn",
+      "lineId": "example-27-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-04.mp3",
+      "durationMs": 2688,
+      "startMs": 143160
+    },
+    {
+      "id": "example-27-right",
+      "lineId": "example-27-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-05.mp3",
+      "durationMs": 2352,
+      "startMs": 145848
+    },
+    {
+      "id": "example-28-bn",
+      "lineId": "example-28-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-06.mp3",
+      "durationMs": 2544,
+      "startMs": 148200
+    },
+    {
+      "id": "example-28-right",
+      "lineId": "example-28-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-07.mp3",
+      "durationMs": 2064,
+      "startMs": 150744
+    },
+    {
+      "id": "example-29-bn",
+      "lineId": "example-29-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-08.mp3",
+      "durationMs": 2760,
+      "startMs": 152808
+    },
+    {
+      "id": "example-29-right",
+      "lineId": "example-29-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-09.mp3",
+      "durationMs": 2712,
+      "startMs": 155568
+    },
+    {
+      "id": "example-30-bn",
+      "lineId": "example-30-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-10.mp3",
+      "durationMs": 3192,
+      "startMs": 158280
+    },
+    {
+      "id": "example-30-right",
+      "lineId": "example-30-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-11.mp3",
+      "durationMs": 2592,
+      "startMs": 161472
+    },
+    {
+      "id": "example-31-bn",
+      "lineId": "example-31-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-02.mp3",
+      "durationMs": 3120,
+      "startMs": 164064
+    },
+    {
+      "id": "example-31-right",
+      "lineId": "example-31-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-03.mp3",
+      "durationMs": 2736,
+      "startMs": 167184
+    },
+    {
+      "id": "example-32-bn",
+      "lineId": "example-32-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-04.mp3",
+      "durationMs": 2688,
+      "startMs": 169920
+    },
+    {
+      "id": "example-32-right",
+      "lineId": "example-32-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-05.mp3",
+      "durationMs": 2352,
+      "startMs": 172608
+    },
+    {
+      "id": "example-33-bn",
+      "lineId": "example-33-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-06.mp3",
+      "durationMs": 2544,
+      "startMs": 174960
+    },
+    {
+      "id": "example-33-right",
+      "lineId": "example-33-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-07.mp3",
+      "durationMs": 2064,
+      "startMs": 177504
+    },
+    {
+      "id": "example-34-bn",
+      "lineId": "example-34-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-08.mp3",
+      "durationMs": 2760,
+      "startMs": 179568
+    },
+    {
+      "id": "example-34-right",
+      "lineId": "example-34-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-09.mp3",
+      "durationMs": 2712,
+      "startMs": 182328
+    },
+    {
+      "id": "example-35-bn",
+      "lineId": "example-35-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-10.mp3",
+      "durationMs": 3192,
+      "startMs": 185040
+    },
+    {
+      "id": "example-35-right",
+      "lineId": "example-35-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-11.mp3",
+      "durationMs": 2592,
+      "startMs": 188232
+    },
+    {
+      "id": "example-36-bn",
+      "lineId": "example-36-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-02.mp3",
+      "durationMs": 3120,
+      "startMs": 190824
+    },
+    {
+      "id": "example-36-right",
+      "lineId": "example-36-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-03.mp3",
+      "durationMs": 2736,
+      "startMs": 193944
+    },
+    {
+      "id": "example-37-bn",
+      "lineId": "example-37-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-04.mp3",
+      "durationMs": 2688,
+      "startMs": 196680
+    },
+    {
+      "id": "example-37-right",
+      "lineId": "example-37-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-05.mp3",
+      "durationMs": 2352,
+      "startMs": 199368
+    },
+    {
+      "id": "example-38-bn",
+      "lineId": "example-38-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-06.mp3",
+      "durationMs": 2544,
+      "startMs": 201720
+    },
+    {
+      "id": "example-38-right",
+      "lineId": "example-38-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-07.mp3",
+      "durationMs": 2064,
+      "startMs": 204264
+    },
+    {
+      "id": "example-39-bn",
+      "lineId": "example-39-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-08.mp3",
+      "durationMs": 2760,
+      "startMs": 206328
+    },
+    {
+      "id": "example-39-right",
+      "lineId": "example-39-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-09.mp3",
+      "durationMs": 2712,
+      "startMs": 209088
+    },
+    {
+      "id": "example-40-bn",
+      "lineId": "example-40-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-10.mp3",
+      "durationMs": 3192,
+      "startMs": 211800
+    },
+    {
+      "id": "example-40-right",
+      "lineId": "example-40-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-11.mp3",
+      "durationMs": 2592,
+      "startMs": 214992
+    },
+    {
+      "id": "example-41-bn",
+      "lineId": "example-41-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-02.mp3",
+      "durationMs": 3120,
+      "startMs": 217584
+    },
+    {
+      "id": "example-41-right",
+      "lineId": "example-41-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-03.mp3",
+      "durationMs": 2736,
+      "startMs": 220704
+    },
+    {
+      "id": "example-42-bn",
+      "lineId": "example-42-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-04.mp3",
+      "durationMs": 2688,
+      "startMs": 223440
+    },
+    {
+      "id": "example-42-right",
+      "lineId": "example-42-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-05.mp3",
+      "durationMs": 2352,
+      "startMs": 226128
+    },
+    {
+      "id": "example-43-bn",
+      "lineId": "example-43-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-06.mp3",
+      "durationMs": 2544,
+      "startMs": 228480
+    },
+    {
+      "id": "example-43-right",
+      "lineId": "example-43-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-07.mp3",
+      "durationMs": 2064,
+      "startMs": 231024
+    },
+    {
+      "id": "example-44-bn",
+      "lineId": "example-44-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-08.mp3",
+      "durationMs": 2760,
+      "startMs": 233088
+    },
+    {
+      "id": "example-44-right",
+      "lineId": "example-44-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-09.mp3",
+      "durationMs": 2712,
+      "startMs": 235848
+    },
+    {
+      "id": "example-45-bn",
+      "lineId": "example-45-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-10.mp3",
+      "durationMs": 3192,
+      "startMs": 238560
+    },
+    {
+      "id": "example-45-right",
+      "lineId": "example-45-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-11.mp3",
+      "durationMs": 2592,
+      "startMs": 241752
+    },
+    {
+      "id": "example-46-bn",
+      "lineId": "example-46-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-02.mp3",
+      "durationMs": 3120,
+      "startMs": 244344
+    },
+    {
+      "id": "example-46-right",
+      "lineId": "example-46-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-03.mp3",
+      "durationMs": 2736,
+      "startMs": 247464
+    },
+    {
+      "id": "example-47-bn",
+      "lineId": "example-47-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-04.mp3",
+      "durationMs": 2688,
+      "startMs": 250200
+    },
+    {
+      "id": "example-47-right",
+      "lineId": "example-47-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-05.mp3",
+      "durationMs": 2352,
+      "startMs": 252888
+    },
+    {
+      "id": "example-48-bn",
+      "lineId": "example-48-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-06.mp3",
+      "durationMs": 2544,
+      "startMs": 255240
+    },
+    {
+      "id": "example-48-right",
+      "lineId": "example-48-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-07.mp3",
+      "durationMs": 2064,
+      "startMs": 257784
+    },
+    {
+      "id": "example-49-bn",
+      "lineId": "example-49-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-08.mp3",
+      "durationMs": 2760,
+      "startMs": 259848
+    },
+    {
+      "id": "example-49-right",
+      "lineId": "example-49-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-09.mp3",
+      "durationMs": 2712,
+      "startMs": 262608
+    },
+    {
+      "id": "example-50-bn",
+      "lineId": "example-50-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-10.mp3",
+      "durationMs": 3192,
+      "startMs": 265320
+    },
+    {
+      "id": "example-50-right",
+      "lineId": "example-50-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-11.mp3",
+      "durationMs": 2592,
+      "startMs": 268512
+    },
+    {
+      "id": "example-51-bn",
+      "lineId": "example-51-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-02.mp3",
+      "durationMs": 3120,
+      "startMs": 271104
+    },
+    {
+      "id": "example-51-right",
+      "lineId": "example-51-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-03.mp3",
+      "durationMs": 2736,
+      "startMs": 274224
+    },
+    {
+      "id": "example-52-bn",
+      "lineId": "example-52-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-04.mp3",
+      "durationMs": 2688,
+      "startMs": 276960
+    },
+    {
+      "id": "example-52-right",
+      "lineId": "example-52-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-05.mp3",
+      "durationMs": 2352,
+      "startMs": 279648
+    },
+    {
+      "id": "example-53-bn",
+      "lineId": "example-53-bn",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-06.mp3",
+      "durationMs": 2544,
+      "startMs": 282000
+    },
+    {
+      "id": "example-53-right",
+      "lineId": "example-53-right",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-07.mp3",
+      "durationMs": 2064,
+      "startMs": 284544
+    },
+    {
+      "id": "recap-title",
+      "lineId": "recap-title",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-12.mp3",
+      "durationMs": 2928,
+      "startMs": 286608
+    },
+    {
+      "id": "recap-memory",
+      "lineId": "recap-memory",
+      "src": "generated/voiceover-v2/no-s-words-bn-to-en/facebook-account2-lessons-1-no-s-words-bn-to-en-v2-paper-depth-bn_to_en_short-13.mp3",
+      "durationMs": 4728,
+      "startMs": 289536
+    }
+  ],
+  "beats": [
+    {
+      "id": "beat-topic-intro",
+      "kind": "topic_intro",
+      "startMs": 0,
+      "endMs": 3504,
+      "payload": {
+        "title": "5 English Words You Should Never Pluralize",
+        "kicker": "Grammar Topic"
+      }
+    },
+    {
+      "id": "beat-example-1",
+      "kind": "example_pair",
+      "startMs": 3504,
+      "endMs": 9360,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 1",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আমাকে খুব ভালো পরামর্শ দিয়েছে।",
+        "bnAtMs": 0,
+        "rightText": "She gave me very good advice.",
+        "rightAtMs": 3120
+      }
+    },
+    {
+      "id": "beat-example-2",
+      "kind": "example_pair",
+      "startMs": 9360,
+      "endMs": 14400,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 2",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমার কাছে একটা সুখবর আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have some good news.",
+        "rightAtMs": 2688
+      }
+    },
+    {
+      "id": "beat-example-3",
+      "kind": "example_pair",
+      "startMs": 14400,
+      "endMs": 19008,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 3",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি কি একটু রুটি পেতে পারি?",
+        "bnAtMs": 0,
+        "rightText": "Can I have some bread?",
+        "rightAtMs": 2544
+      }
+    },
+    {
+      "id": "beat-example-4",
+      "kind": "example_pair",
+      "startMs": 19008,
+      "endMs": 24480,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 4",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আজ আমার খুব কম সময় আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have very little time today.",
+        "rightAtMs": 2760
+      }
+    },
+    {
+      "id": "beat-example-5",
+      "kind": "example_pair",
+      "startMs": 24480,
+      "endMs": 30264,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 5",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এই ঘরের জন্য নতুন ফার্নিচার দরকার।",
+        "bnAtMs": 0,
+        "rightText": "This room needs new furniture.",
+        "rightAtMs": 3192
+      }
+    },
+    {
+      "id": "beat-example-6",
+      "kind": "example_pair",
+      "startMs": 30264,
+      "endMs": 36120,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 6",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আমাকে খুব ভালো পরামর্শ দিয়েছে।",
+        "bnAtMs": 0,
+        "rightText": "She gave me very good advice.",
+        "rightAtMs": 3120
+      }
+    },
+    {
+      "id": "beat-example-7",
+      "kind": "example_pair",
+      "startMs": 36120,
+      "endMs": 41160,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 7",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমার কাছে একটা সুখবর আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have some good news.",
+        "rightAtMs": 2688
+      }
+    },
+    {
+      "id": "beat-example-8",
+      "kind": "example_pair",
+      "startMs": 41160,
+      "endMs": 45768,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 8",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি কি একটু রুটি পেতে পারি?",
+        "bnAtMs": 0,
+        "rightText": "Can I have some bread?",
+        "rightAtMs": 2544
+      }
+    },
+    {
+      "id": "beat-example-9",
+      "kind": "example_pair",
+      "startMs": 45768,
+      "endMs": 51240,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 9",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আজ আমার খুব কম সময় আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have very little time today.",
+        "rightAtMs": 2760
+      }
+    },
+    {
+      "id": "beat-example-10",
+      "kind": "example_pair",
+      "startMs": 51240,
+      "endMs": 57024,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 10",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এই ঘরের জন্য নতুন ফার্নিচার দরকার।",
+        "bnAtMs": 0,
+        "rightText": "This room needs new furniture.",
+        "rightAtMs": 3192
+      }
+    },
+    {
+      "id": "beat-example-11",
+      "kind": "example_pair",
+      "startMs": 57024,
+      "endMs": 62880,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 11",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আমাকে খুব ভালো পরামর্শ দিয়েছে।",
+        "bnAtMs": 0,
+        "rightText": "She gave me very good advice.",
+        "rightAtMs": 3120
+      }
+    },
+    {
+      "id": "beat-example-12",
+      "kind": "example_pair",
+      "startMs": 62880,
+      "endMs": 67920,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 12",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমার কাছে একটা সুখবর আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have some good news.",
+        "rightAtMs": 2688
+      }
+    },
+    {
+      "id": "beat-example-13",
+      "kind": "example_pair",
+      "startMs": 67920,
+      "endMs": 72528,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 13",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি কি একটু রুটি পেতে পারি?",
+        "bnAtMs": 0,
+        "rightText": "Can I have some bread?",
+        "rightAtMs": 2544
+      }
+    },
+    {
+      "id": "beat-example-14",
+      "kind": "example_pair",
+      "startMs": 72528,
+      "endMs": 78000,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 14",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আজ আমার খুব কম সময় আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have very little time today.",
+        "rightAtMs": 2760
+      }
+    },
+    {
+      "id": "beat-example-15",
+      "kind": "example_pair",
+      "startMs": 78000,
+      "endMs": 83784,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 15",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এই ঘরের জন্য নতুন ফার্নিচার দরকার।",
+        "bnAtMs": 0,
+        "rightText": "This room needs new furniture.",
+        "rightAtMs": 3192
+      }
+    },
+    {
+      "id": "beat-example-16",
+      "kind": "example_pair",
+      "startMs": 83784,
+      "endMs": 89640,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 16",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আমাকে খুব ভালো পরামর্শ দিয়েছে।",
+        "bnAtMs": 0,
+        "rightText": "She gave me very good advice.",
+        "rightAtMs": 3120
+      }
+    },
+    {
+      "id": "beat-example-17",
+      "kind": "example_pair",
+      "startMs": 89640,
+      "endMs": 94680,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 17",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমার কাছে একটা সুখবর আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have some good news.",
+        "rightAtMs": 2688
+      }
+    },
+    {
+      "id": "beat-example-18",
+      "kind": "example_pair",
+      "startMs": 94680,
+      "endMs": 99288,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 18",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি কি একটু রুটি পেতে পারি?",
+        "bnAtMs": 0,
+        "rightText": "Can I have some bread?",
+        "rightAtMs": 2544
+      }
+    },
+    {
+      "id": "beat-example-19",
+      "kind": "example_pair",
+      "startMs": 99288,
+      "endMs": 104760,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 19",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আজ আমার খুব কম সময় আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have very little time today.",
+        "rightAtMs": 2760
+      }
+    },
+    {
+      "id": "beat-example-20",
+      "kind": "example_pair",
+      "startMs": 104760,
+      "endMs": 110544,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 20",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এই ঘরের জন্য নতুন ফার্নিচার দরকার।",
+        "bnAtMs": 0,
+        "rightText": "This room needs new furniture.",
+        "rightAtMs": 3192
+      }
+    },
+    {
+      "id": "beat-example-21",
+      "kind": "example_pair",
+      "startMs": 110544,
+      "endMs": 116400,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 21",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আমাকে খুব ভালো পরামর্শ দিয়েছে।",
+        "bnAtMs": 0,
+        "rightText": "She gave me very good advice.",
+        "rightAtMs": 3120
+      }
+    },
+    {
+      "id": "beat-example-22",
+      "kind": "example_pair",
+      "startMs": 116400,
+      "endMs": 121440,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 22",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমার কাছে একটা সুখবর আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have some good news.",
+        "rightAtMs": 2688
+      }
+    },
+    {
+      "id": "beat-example-23",
+      "kind": "example_pair",
+      "startMs": 121440,
+      "endMs": 126048,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 23",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি কি একটু রুটি পেতে পারি?",
+        "bnAtMs": 0,
+        "rightText": "Can I have some bread?",
+        "rightAtMs": 2544
+      }
+    },
+    {
+      "id": "beat-example-24",
+      "kind": "example_pair",
+      "startMs": 126048,
+      "endMs": 131520,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 24",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আজ আমার খুব কম সময় আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have very little time today.",
+        "rightAtMs": 2760
+      }
+    },
+    {
+      "id": "beat-example-25",
+      "kind": "example_pair",
+      "startMs": 131520,
+      "endMs": 137304,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 25",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এই ঘরের জন্য নতুন ফার্নিচার দরকার।",
+        "bnAtMs": 0,
+        "rightText": "This room needs new furniture.",
+        "rightAtMs": 3192
+      }
+    },
+    {
+      "id": "beat-example-26",
+      "kind": "example_pair",
+      "startMs": 137304,
+      "endMs": 143160,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 26",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আমাকে খুব ভালো পরামর্শ দিয়েছে।",
+        "bnAtMs": 0,
+        "rightText": "She gave me very good advice.",
+        "rightAtMs": 3120
+      }
+    },
+    {
+      "id": "beat-example-27",
+      "kind": "example_pair",
+      "startMs": 143160,
+      "endMs": 148200,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 27",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমার কাছে একটা সুখবর আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have some good news.",
+        "rightAtMs": 2688
+      }
+    },
+    {
+      "id": "beat-example-28",
+      "kind": "example_pair",
+      "startMs": 148200,
+      "endMs": 152808,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 28",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি কি একটু রুটি পেতে পারি?",
+        "bnAtMs": 0,
+        "rightText": "Can I have some bread?",
+        "rightAtMs": 2544
+      }
+    },
+    {
+      "id": "beat-example-29",
+      "kind": "example_pair",
+      "startMs": 152808,
+      "endMs": 158280,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 29",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আজ আমার খুব কম সময় আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have very little time today.",
+        "rightAtMs": 2760
+      }
+    },
+    {
+      "id": "beat-example-30",
+      "kind": "example_pair",
+      "startMs": 158280,
+      "endMs": 164064,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 30",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এই ঘরের জন্য নতুন ফার্নিচার দরকার।",
+        "bnAtMs": 0,
+        "rightText": "This room needs new furniture.",
+        "rightAtMs": 3192
+      }
+    },
+    {
+      "id": "beat-example-31",
+      "kind": "example_pair",
+      "startMs": 164064,
+      "endMs": 169920,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 31",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আমাকে খুব ভালো পরামর্শ দিয়েছে।",
+        "bnAtMs": 0,
+        "rightText": "She gave me very good advice.",
+        "rightAtMs": 3120
+      }
+    },
+    {
+      "id": "beat-example-32",
+      "kind": "example_pair",
+      "startMs": 169920,
+      "endMs": 174960,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 32",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমার কাছে একটা সুখবর আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have some good news.",
+        "rightAtMs": 2688
+      }
+    },
+    {
+      "id": "beat-example-33",
+      "kind": "example_pair",
+      "startMs": 174960,
+      "endMs": 179568,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 33",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি কি একটু রুটি পেতে পারি?",
+        "bnAtMs": 0,
+        "rightText": "Can I have some bread?",
+        "rightAtMs": 2544
+      }
+    },
+    {
+      "id": "beat-example-34",
+      "kind": "example_pair",
+      "startMs": 179568,
+      "endMs": 185040,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 34",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আজ আমার খুব কম সময় আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have very little time today.",
+        "rightAtMs": 2760
+      }
+    },
+    {
+      "id": "beat-example-35",
+      "kind": "example_pair",
+      "startMs": 185040,
+      "endMs": 190824,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 35",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এই ঘরের জন্য নতুন ফার্নিচার দরকার।",
+        "bnAtMs": 0,
+        "rightText": "This room needs new furniture.",
+        "rightAtMs": 3192
+      }
+    },
+    {
+      "id": "beat-example-36",
+      "kind": "example_pair",
+      "startMs": 190824,
+      "endMs": 196680,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 36",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আমাকে খুব ভালো পরামর্শ দিয়েছে।",
+        "bnAtMs": 0,
+        "rightText": "She gave me very good advice.",
+        "rightAtMs": 3120
+      }
+    },
+    {
+      "id": "beat-example-37",
+      "kind": "example_pair",
+      "startMs": 196680,
+      "endMs": 201720,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 37",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমার কাছে একটা সুখবর আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have some good news.",
+        "rightAtMs": 2688
+      }
+    },
+    {
+      "id": "beat-example-38",
+      "kind": "example_pair",
+      "startMs": 201720,
+      "endMs": 206328,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 38",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি কি একটু রুটি পেতে পারি?",
+        "bnAtMs": 0,
+        "rightText": "Can I have some bread?",
+        "rightAtMs": 2544
+      }
+    },
+    {
+      "id": "beat-example-39",
+      "kind": "example_pair",
+      "startMs": 206328,
+      "endMs": 211800,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 39",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আজ আমার খুব কম সময় আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have very little time today.",
+        "rightAtMs": 2760
+      }
+    },
+    {
+      "id": "beat-example-40",
+      "kind": "example_pair",
+      "startMs": 211800,
+      "endMs": 217584,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 40",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এই ঘরের জন্য নতুন ফার্নিচার দরকার।",
+        "bnAtMs": 0,
+        "rightText": "This room needs new furniture.",
+        "rightAtMs": 3192
+      }
+    },
+    {
+      "id": "beat-example-41",
+      "kind": "example_pair",
+      "startMs": 217584,
+      "endMs": 223440,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 41",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আমাকে খুব ভালো পরামর্শ দিয়েছে।",
+        "bnAtMs": 0,
+        "rightText": "She gave me very good advice.",
+        "rightAtMs": 3120
+      }
+    },
+    {
+      "id": "beat-example-42",
+      "kind": "example_pair",
+      "startMs": 223440,
+      "endMs": 228480,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 42",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমার কাছে একটা সুখবর আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have some good news.",
+        "rightAtMs": 2688
+      }
+    },
+    {
+      "id": "beat-example-43",
+      "kind": "example_pair",
+      "startMs": 228480,
+      "endMs": 233088,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 43",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি কি একটু রুটি পেতে পারি?",
+        "bnAtMs": 0,
+        "rightText": "Can I have some bread?",
+        "rightAtMs": 2544
+      }
+    },
+    {
+      "id": "beat-example-44",
+      "kind": "example_pair",
+      "startMs": 233088,
+      "endMs": 238560,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 44",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আজ আমার খুব কম সময় আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have very little time today.",
+        "rightAtMs": 2760
+      }
+    },
+    {
+      "id": "beat-example-45",
+      "kind": "example_pair",
+      "startMs": 238560,
+      "endMs": 244344,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 45",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এই ঘরের জন্য নতুন ফার্নিচার দরকার।",
+        "bnAtMs": 0,
+        "rightText": "This room needs new furniture.",
+        "rightAtMs": 3192
+      }
+    },
+    {
+      "id": "beat-example-46",
+      "kind": "example_pair",
+      "startMs": 244344,
+      "endMs": 250200,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 46",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আমাকে খুব ভালো পরামর্শ দিয়েছে।",
+        "bnAtMs": 0,
+        "rightText": "She gave me very good advice.",
+        "rightAtMs": 3120
+      }
+    },
+    {
+      "id": "beat-example-47",
+      "kind": "example_pair",
+      "startMs": 250200,
+      "endMs": 255240,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 47",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমার কাছে একটা সুখবর আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have some good news.",
+        "rightAtMs": 2688
+      }
+    },
+    {
+      "id": "beat-example-48",
+      "kind": "example_pair",
+      "startMs": 255240,
+      "endMs": 259848,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 48",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি কি একটু রুটি পেতে পারি?",
+        "bnAtMs": 0,
+        "rightText": "Can I have some bread?",
+        "rightAtMs": 2544
+      }
+    },
+    {
+      "id": "beat-example-49",
+      "kind": "example_pair",
+      "startMs": 259848,
+      "endMs": 265320,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 49",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আজ আমার খুব কম সময় আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have very little time today.",
+        "rightAtMs": 2760
+      }
+    },
+    {
+      "id": "beat-example-50",
+      "kind": "example_pair",
+      "startMs": 265320,
+      "endMs": 271104,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 50",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "এই ঘরের জন্য নতুন ফার্নিচার দরকার।",
+        "bnAtMs": 0,
+        "rightText": "This room needs new furniture.",
+        "rightAtMs": 3192
+      }
+    },
+    {
+      "id": "beat-example-51",
+      "kind": "example_pair",
+      "startMs": 271104,
+      "endMs": 276960,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 51",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "সে আমাকে খুব ভালো পরামর্শ দিয়েছে।",
+        "bnAtMs": 0,
+        "rightText": "She gave me very good advice.",
+        "rightAtMs": 3120
+      }
+    },
+    {
+      "id": "beat-example-52",
+      "kind": "example_pair",
+      "startMs": 276960,
+      "endMs": 282000,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 52",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমার কাছে একটা সুখবর আছে।",
+        "bnAtMs": 0,
+        "rightText": "I have some good news.",
+        "rightAtMs": 2688
+      }
+    },
+    {
+      "id": "beat-example-53",
+      "kind": "example_pair",
+      "startMs": 282000,
+      "endMs": 286608,
+      "payload": {
+        "mode": "bn_to_en",
+        "label": "Example 53",
+        "wrongText": "",
+        "wrongAtMs": 0,
+        "bnText": "আমি কি একটু রুটি পেতে পারি?",
+        "bnAtMs": 0,
+        "rightText": "Can I have some bread?",
+        "rightAtMs": 2544
+      }
+    },
+    {
+      "id": "beat-recap",
+      "kind": "recap",
+      "startMs": 286608,
+      "endMs": 294664,
+      "payload": {
+        "title": "Free English Lessons Every Day",
+        "memory": "Start free at muonaiapp.com and practice English every day.",
+        "recapMode": "cta",
+        "ctaKind": "web",
+        "actionLabel": "Visit muonaiapp.com"
+      }
+    }
+  ],
+  "overrides": null
+}
