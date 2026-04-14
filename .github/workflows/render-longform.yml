@@ -11,8 +11,14 @@ on:
         options:
           - paper-depth
           - editorial-v5
+          - guided-v4
           - app-hybrid-v5
           - structured-flow-v5
+          - neo-minimal
+          - productivity-canvas
+          - documentary-dark
+          - soft-tech-finance
+          - gamified-learning
 
 jobs:
   render:
@@ -51,10 +57,40 @@ jobs:
               OUTPUT="out/actual-app-hybrid-v5-5min.mp4"
               EXTRA_ARGS='--props={"variant":"app-hybrid"}'
               ;;
+            "guided-v4")
+              COMPOSITION="ActualEditorialV55Min"
+              OUTPUT="out/actual-guided-v4-5min.mp4"
+              EXTRA_ARGS='--props={"variant":"guided"}'
+              ;;
             "structured-flow-v5")
               COMPOSITION="ActualEditorialV55Min"
               OUTPUT="out/actual-structured-flow-v5-5min.mp4"
               EXTRA_ARGS='--props={"variant":"structured-flow"}'
+              ;;
+            "neo-minimal")
+              COMPOSITION="ActualEditorialV55Min"
+              OUTPUT="out/actual-neo-minimal-5min.mp4"
+              EXTRA_ARGS='--props={"variant":"neo-minimal"}'
+              ;;
+            "productivity-canvas")
+              COMPOSITION="ActualEditorialV55Min"
+              OUTPUT="out/actual-productivity-canvas-5min.mp4"
+              EXTRA_ARGS='--props={"variant":"productivity-canvas"}'
+              ;;
+            "documentary-dark")
+              COMPOSITION="ActualEditorialV55Min"
+              OUTPUT="out/actual-documentary-dark-5min.mp4"
+              EXTRA_ARGS='--props={"variant":"documentary-dark"}'
+              ;;
+            "soft-tech-finance")
+              COMPOSITION="ActualEditorialV55Min"
+              OUTPUT="out/actual-soft-tech-finance-5min.mp4"
+              EXTRA_ARGS='--props={"variant":"soft-tech-finance"}'
+              ;;
+            "gamified-learning")
+              COMPOSITION="ActualEditorialV55Min"
+              OUTPUT="out/actual-gamified-learning-5min.mp4"
+              EXTRA_ARGS='--props={"variant":"gamified-learning"}'
               ;;
             *)
               COMPOSITION="ActualPaperDepth5Min"
