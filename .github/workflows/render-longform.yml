@@ -3,8 +3,17 @@ name: Render Longform
 on:
   workflow_dispatch:
     inputs:
+      render_set:
+        description: "What to render"
+        required: true
+        default: "single"
+        type: choice
+        options:
+          - single
+          - remaining-8
+          - all-10
       template:
-        description: "Template to render"
+        description: "Template to render when render_set=single"
         required: true
         default: "paper-depth"
         type: choice
@@ -21,9 +30,36 @@ on:
           - gamified-learning
 
 jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.templates.outputs.matrix }}
+    steps:
+      - name: Resolve templates
+        id: templates
+        shell: bash
+        run: |
+          case "${{ github.event.inputs.render_set }}" in
+            "remaining-8")
+              JSON='["guided-v4","app-hybrid-v5","structured-flow-v5","neo-minimal","productivity-canvas","documentary-dark","soft-tech-finance","gamified-learning"]'
+              ;;
+            "all-10")
+              JSON='["paper-depth","editorial-v5","guided-v4","app-hybrid-v5","structured-flow-v5","neo-minimal","productivity-canvas","documentary-dark","soft-tech-finance","gamified-learning"]'
+              ;;
+            *)
+              JSON='["${{ github.event.inputs.template }}"]'
+              ;;
+          esac
+          echo "matrix=$JSON" >> "$GITHUB_OUTPUT"
+
   render:
+    needs: plan
     runs-on: ubuntu-latest
     timeout-minutes: 360
+    strategy:
+      fail-fast: false
+      matrix:
+        template: ${{ fromJson(needs.plan.outputs.matrix) }}
 
     steps:
       - name: Checkout
@@ -36,15 +72,13 @@ jobs:
           cache: npm
 
       - name: Install
-        run: npm install
-
-      - name: Build check
-        run: npm run build
+        run: npm ci
 
       - name: Render MP4
+        shell: bash
         run: |
           mkdir -p out
-          TEMPLATE="${{ github.event.inputs.template }}"
+          TEMPLATE="${{ matrix.template }}"
 
           case "$TEMPLATE" in
             "editorial-v5")
@@ -108,5 +142,6 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: rendered-longform-video
+          name: rendered-${{ matrix.template }}
           path: out/*.mp4
+          compression-level: 0
