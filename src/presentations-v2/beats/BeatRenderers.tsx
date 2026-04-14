@@ -467,7 +467,7 @@ const RecapBeat: React.FC<BeatRendererProps> = ({beat, stylePresetId, ctaKindOve
   );
 };
 
-export const BeatRenderer: React.FC<BeatRendererProps> = ({beat, stylePresetId}) => {
+export const BeatRenderer: React.FC<BeatRendererProps> = ({beat, stylePresetId, ctaKindOverride}) => {
   switch (beat.kind) {
     case 'topic_intro':
       return <TopicIntroBeat beat={beat} stylePresetId={stylePresetId} />;
@@ -476,7 +476,7 @@ export const BeatRenderer: React.FC<BeatRendererProps> = ({beat, stylePresetId})
     case 'rule_callout':
       return <RuleCalloutBeat beat={beat} stylePresetId={stylePresetId} />;
     case 'recap':
-      return <RecapBeat beat={beat} stylePresetId={stylePresetId} />;
+      return <RecapBeat beat={beat} stylePresetId={stylePresetId} ctaKindOverride={ctaKindOverride} />;
     default:
       return null;
   }
