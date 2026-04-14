@@ -397,6 +397,22 @@ type Props = {
   variant?: PresentationVariant;
 };
 
+const CTA_SEQUENCE: Array<{stylePresetId: string; ctaKind: 'web' | 'app'}> = [
+  {stylePresetId: 'paper-depth', ctaKind: 'web'},
+  {stylePresetId: 'editorial-v5', ctaKind: 'app'},
+  {stylePresetId: 'guided-v4', ctaKind: 'web'},
+  {stylePresetId: 'app-hybrid-v5', ctaKind: 'app'},
+  {stylePresetId: 'structured-flow-v5', ctaKind: 'web'},
+  {stylePresetId: 'neo-minimal', ctaKind: 'app'},
+  {stylePresetId: 'productivity-canvas', ctaKind: 'web'},
+  {stylePresetId: 'documentary-dark', ctaKind: 'app'},
+  {stylePresetId: 'soft-tech-finance', ctaKind: 'web'},
+  {stylePresetId: 'gamified-learning', ctaKind: 'app'},
+];
+
+const resolveTemplateCtaKind = (stylePresetId: string): 'web' | 'app' =>
+  CTA_SEQUENCE.find((entry) => entry.stylePresetId === stylePresetId)?.ctaKind ?? 'web';
+
 const useResolvedBeatMap = (beatMap?: BeatMap, beatMapPath?: string) => {
   const [resolvedBeatMap, setResolvedBeatMap] = React.useState<BeatMap | null>(beatMap ?? null);
   const [handle] = React.useState(() => delayRender('Loading beat map'));
@@ -473,13 +489,8 @@ export const PresentationTemplateV2: React.FC<Props> = ({beatMap, beatMapPath, v
   );
   const totalFrames = msToFrames(totalDurationMs, fps);
   const progress = Math.min(100, (frame / totalFrames) * 100);
-  const lessonNumberSource =
-    beatMapPath ??
-    resolvedBeatMap.audioSegments[0]?.src ??
-    resolvedBeatMap.lessonId;
-  const lessonNumberMatch = String(lessonNumberSource).match(/lessons-(\d+)-/);
-  const lessonNumber = lessonNumberMatch ? parseInt(lessonNumberMatch[1], 10) : 1;
-  const isAppCta = lessonNumber % 2 === 0;
+  const ctaKind = resolveTemplateCtaKind(effectiveStylePresetId);
+  const isAppCta = ctaKind === 'app';
 
   return (
     <AbsoluteFill style={{fontFamily: montserrat}}>
@@ -504,7 +515,7 @@ export const PresentationTemplateV2: React.FC<Props> = ({beatMap, beatMapPath, v
       ))}
       {resolvedBeatMap.beats.map((beat) => (
         <Sequence key={beat.id} from={msToFrames(beat.startMs, fps)} durationInFrames={msToFrames(beat.endMs - beat.startMs, fps)}>
-          <BeatRenderer beat={beat} stylePresetId={effectiveStylePresetId} />
+          <BeatRenderer beat={beat} stylePresetId={effectiveStylePresetId} ctaKindOverride={ctaKind} />
         </Sequence>
       ))}
     </AbsoluteFill>

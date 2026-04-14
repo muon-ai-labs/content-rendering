@@ -7,6 +7,7 @@ import type {Beat, MotionPreset} from '../../video-spec/types';
 type BeatRendererProps = {
   beat: Beat;
   stylePresetId: string;
+  ctaKindOverride?: 'web' | 'app';
 };
 
 const useBeatMotion = (motion: MotionPreset, durationFrames = 1) => {
@@ -275,7 +276,7 @@ const RuleCalloutBeat: React.FC<BeatRendererProps> = ({beat, stylePresetId}) => 
   );
 };
 
-const RecapBeat: React.FC<BeatRendererProps> = ({beat, stylePresetId}) => {
+const RecapBeat: React.FC<BeatRendererProps> = ({beat, stylePresetId, ctaKindOverride}) => {
   const stylePreset = resolveStylePreset(stylePresetId);
   const type = typographyPresets[stylePreset.typographyPresetId];
   const {fps} = useVideoConfig();
@@ -285,7 +286,7 @@ const RecapBeat: React.FC<BeatRendererProps> = ({beat, stylePresetId}) => {
 
   const recapMode = String(beat.payload.recapMode ?? 'default');
   if (recapMode === 'cta') {
-    const ctaKind = String(beat.payload.ctaKind ?? 'web');
+    const ctaKind = ctaKindOverride ?? (String(beat.payload.ctaKind ?? 'web') as 'web' | 'app');
     const actionLabel =
       ctaKind === 'app'
         ? 'Google Play Store থেকে "Muon AI" অ্যাপটি ডাউনলোড করুন'
